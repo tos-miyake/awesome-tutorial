@@ -1,11 +1,15 @@
 {
   "name": "awesome-tutorial",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
   "devDependencies": {
     "babel-core": "^6.23.1",
     "babel-loader": "^6.3.2",
     "babel-preset-latest": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
     "coffee-loader": "^0.7.3",
     "coffee-script": "^1.12.4",
     "glob": "^7.1.1",
